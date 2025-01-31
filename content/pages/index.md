@@ -295,8 +295,12 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "I hired [Your Name] for my website project, and the results were
+          beyond my expectations! The process was smooth, the communication was
+          clear, and the final product was a beautiful, user-friendly site.
+          [Your Name] was professional, timely, and went above and beyond to
+          ensure my vision came to life. I highly recommend their services to
+          anyone needing a top-quality website!"
         tagline: MANOJ DANODIA
         subtitle: Maria Walter
         text: >-
