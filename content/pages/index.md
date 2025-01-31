@@ -306,7 +306,7 @@ sections:
           top-quality website!"
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/WhatsApp Image 2025-01-31 at 22.18.28_eea91fd0.jpg
           altText: Placeholder text
           elementId: ''
           styles:
