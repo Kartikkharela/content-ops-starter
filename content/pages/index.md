@@ -419,11 +419,12 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - subtitle: Thank you for visiting
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Have any questions or inquiries? Feel free to reach out! Whether you need
+      assistance, collaboration, or just want to connect, we're here to help.
+      Drop us a message, and we'll get back to you as soon as possible
+
     media:
       fields:
         - name: name
