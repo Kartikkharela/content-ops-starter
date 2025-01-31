@@ -295,12 +295,12 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          "I hired Kartik for my website project, and the results were beyond my
+          I hired Kartik for my website project, and the results were beyond my
           expectations! The process was smooth, the communication was clear, and
           the final product was a beautiful, user-friendly site. Kartik was
           professional, timely, and went above and beyond to ensure my vision
           came to life. I highly recommend their services to anyone needing a
-          top-quality website!"
+          top-quality website !
         tagline: MANOJ DANODIA
         subtitle: Maria Walter
         text: >-
