@@ -233,7 +233,7 @@ sections:
       posts.
     actions:
       - label: Get started
-        url: /
+        url: 'https://www.instagram.com/kartik_kharela?igsh=MWJ6cTJsYWluZnlicw=='
         icon: arrowRight
         iconPosition: right
         style: secondary
