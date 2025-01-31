@@ -295,40 +295,6 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          I hired Kartik for my website project, and the results were beyond my
-          expectations! The process was smooth, the communication was clear, and
-          the final product was a beautiful, user-friendly site. Kartik was
-          professional, timely, and went above and beyond to ensure my vision
-          came to life. I highly recommend their services to anyone needing a
-          top-quality website !
-        tagline: MANOJ DANODIA
-        subtitle: Maria Walter
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/WhatsApp Image 2025-01-31 at 22.18.28_eea91fd0.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple,
           that's why it is so complicated."
         tagline: Testimonial 5
