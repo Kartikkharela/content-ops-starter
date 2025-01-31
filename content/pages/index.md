@@ -228,9 +228,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Kartik_kharela
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "\nEngineering Student | Future Innovator \U0001F680 | Turning ideas into reality ⚙️\n\n\n\n"
     actions:
       - label: Visit profile
         url: 'https://www.instagram.com/kartik_kharela?igsh=MWJ6cTJsYWluZnlicw=='
