@@ -260,7 +260,7 @@ sections:
       and bringing a fresh perspective to his adventures. Stay tuned for vlogs
       full of fun, learning, and creativity.
     actions:
-      - label: See Tutorials
+      - label: Visit channel
         url: /
         showIcon: true
         icon: arrowRight
