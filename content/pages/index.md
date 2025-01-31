@@ -64,10 +64,14 @@ sections:
       - type: FeaturedItem
         title: About me
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Hello! I’m Kartik Kharela, an 18-year-old first-year B.Tech student at
+          Parul University, Vadodara. Alongside my academic journey, I’ve
+          ventured into freelancing to expand my skills, explore my passion for
+          web development, and gain real-world professional experience. I
+          believe in continuous learning and pushing boundaries to achieve
+          excellence.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
