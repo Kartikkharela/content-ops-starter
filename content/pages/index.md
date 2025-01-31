@@ -7,7 +7,7 @@ sections:
       text: 'My self Kartik Kharela , Welcome to my Website'
       color: text-dark
       type: TitleBlock
-    subtitle: I am 18 year old
+    subtitle: Chainpura Churu (331504)
     text: >+
       Alongside my studies, I actively engage in freelancing to expand my skills
       and gain professional experience
