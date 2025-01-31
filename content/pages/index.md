@@ -255,8 +255,10 @@ sections:
       type: TitleBlock
     subtitle: Stay tuned
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Welcome to Kartik Kharela Vlogs! Join Kartik as he shares exciting moments
+      from his everyday life, exploring new places, trying unique experiences,
+      and bringing a fresh perspective to his adventures. Stay tuned for vlogs
+      full of fun, learning, and creativity.
     actions:
       - label: See Tutorials
         url: /
