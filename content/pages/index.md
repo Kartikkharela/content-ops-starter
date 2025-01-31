@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Contact us
+      - label: Contact
         altText: ''
         url: /
         showIcon: true
