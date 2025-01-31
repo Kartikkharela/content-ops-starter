@@ -1,5 +1,5 @@
 ---
-title: Home
+title: KARTIK KHARELA
 slug: /
 sections:
   - type: GenericSection
