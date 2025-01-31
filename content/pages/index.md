@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: '"पधारो सा, म्हारी सोच आ भावनावां री दुनियां में "'
     items:
       - type: FeaturedItem
         title: 500k
