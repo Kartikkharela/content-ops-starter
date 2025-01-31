@@ -124,10 +124,7 @@ sections:
         type: FeaturedItem
       - title: Get in touch
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "I’m always excited to take on new challenges and collaborate on interesting projects. If you’re looking for a dedicated web developer to bring your ideas to life, feel free to reach out! You can contact me at 9352052394 or drop an email at kartikkharela\\@outlook.com. Let’s create something amazing\_together!\n\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
