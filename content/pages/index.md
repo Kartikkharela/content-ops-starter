@@ -96,10 +96,13 @@ sections:
               borderRadius: x-large
       - title: What I do ?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          As a freelancer, I specialize in creating websites that are modern,
+          user-friendly, and tailored to meet your unique requirements. Whether
+          you need a personal portfolio, a business website, or an e-commerce
+          platform, I’m here to help. My work combines creativity,
+          functionality, and a focus on user experience to ensure every website
+          stands out and delivers exceptional results.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
