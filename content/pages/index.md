@@ -261,7 +261,7 @@ sections:
       full of fun, learning, and creativity.
     actions:
       - label: Visit channel
-        url: /
+        url: 'https://youtube.com/@kartikkharelavlogs1130?si=AV86cl_RQnQ_9DAl'
         showIcon: true
         icon: arrowRight
         iconPosition: right
